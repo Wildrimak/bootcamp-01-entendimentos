@@ -17,6 +17,12 @@
   * A ajuda que vc vai precisar será inversamente proporcional a quantidade de conhecimentos correlacionados aquele tema.
   * Então entenda a dificuldade que vc irá passar por analisar o quanto de background vc precisa ter para entender daquele tema, defina objetivos realistas baseado no seu tempo e background de conhecimentos e consiga um mestre pra te auxiliar, de preferencia quanto mais especifico ele for, melhor.
 * E se você tiver operando a um terço da sua capacidade?
+  * Aqui temos a hipotese que a capacidade é dividida em 3 pilares: teoria, treino e competição
+    * Teoria: O quanto vc estuda?  Vc sabe quem são as autoridades máximas do assunto que vc está estudando? Quantos livros vc já leu dessa autoridade máxima?
+    * Treino: O quanto vc pegou de um assunto e praticou? O tempo praticando foi maior que o tempo na teoria?
+    * Competição: Como tá seu desempenho em relação aos outros? OBS: Isso é usado para identificar gaps, ou seja coisas que precisam ser melhoradas e é importante lembrar que quem pratica todos os dias não tem tempo de melhorar.
+  * Como normalmente no dia a dia fazemos apenas uma dessas coisas, teoricamente estamos operando a 1/3 da nossa capacidade, pois o quanto será que teriamos rendido se tivessemos praticado essas 3 coisas ao mesmo tempo?
+  
 * E se você fosse um(a) atleta da programação
 * Não precisa ficar se comparando com outras pessoas durante o aprendizado
 
