@@ -15,7 +15,17 @@
   * Defina objetivos de aprendizado proporcional a sua realidade, ou seja aonde queres chegar com esse conhecimento e em quanto tempo.
   * Estabeleça um deadline baseado no prazo que vc tem.
   * A ajuda que vc vai precisar será inversamente proporcional a quantidade de conhecimentos correlacionados aquele tema.
-  * Então entenda a dificuldade que vc irá passar por analisar o quanto de background vc precisa ter para entender daquele tema, defina objetivos realistas baseado no seu tempo e background de conhecimentos e consiga um mestre pra te auxiliar, de preferencia quanto mais especifico ele for, melhor. 
+  * Então entenda a dificuldade que vc irá passar por analisar o quanto de background vc precisa ter para entender daquele tema, defina objetivos realistas baseado no seu tempo e background de conhecimentos e consiga um mestre pra te auxiliar, de preferencia quanto mais especifico ele for, melhor.
+* E se você tiver operando a um terço da sua capacidade?
+* E se você fosse um(a) atleta da programação
+* Não precisa ficar se comparando com outras pessoas durante o aprendizado
+
+### Indo um pouco mais fundo no aprendizado eficiente
+
+* Você já sabe aprender
+* Sua memória é mais do que um repositório de informações
+* Como estudar com estratégias eficazes
+* Teoria da carga cognitiva e nossos limites de entendimento
 
 ## Sobre cdd
 ## Sobre o conjunto de técnicas de código
