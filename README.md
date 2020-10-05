@@ -22,9 +22,18 @@
     * Treino: O quanto vc pegou de um assunto e praticou? O tempo praticando foi maior que o tempo na teoria?
     * Competição: Como tá seu desempenho em relação aos outros? OBS: Isso é usado para identificar gaps, ou seja coisas que precisam ser melhoradas e é importante lembrar que quem pratica todos os dias não tem tempo de melhorar.
   * Como normalmente no dia a dia fazemos apenas uma dessas coisas, teoricamente estamos operando a 1/3 da nossa capacidade, pois o quanto será que teriamos rendido se tivessemos praticado essas 3 coisas ao mesmo tempo?
-  
-* E se você fosse um(a) atleta da programação
+* E se você fosse um(a) atleta da programação?
+  * O atleta reconhece a importância do treino para o seu desempenho.
+  * Os principais pontos de treino de um desenvolvedor são:
+    * Criação de código: Envolve criar projetos e funcionalidades do zero.
+    * Correção de bugs: Pegar projetos open sources e corrigir bugs a partir das issues - a razão disso é pq é muito dificil criar cenários reais para bugs.
+    * Manutenção evolutiva: Adicionar feature em base de código já existente - tente fazer refatorações de projetos grandes, como o junit, ou de preferencia que envolva algo que vc não conheça, no fim resume-se a entender o código alheio.
 * Não precisa ficar se comparando com outras pessoas durante o aprendizado
+  * A velocidade com que vc aprende é proporcional ao seu background de conhecimentos relacionados.
+  * É obvio que quem pratica a mais tempo vai aprender mais rapido. 
+  * Se seu background é menor é obvio que vc não vai performar como uma pessoa que tem um background maior.
+  * Tendo isso em mente evite comparações que te levem a frustações.
+  * Use comparações para se inspirar mas tenha em mente que sua evolução é proporcional ao seu background prévio.
 
 ### Indo um pouco mais fundo no aprendizado eficiente
 
