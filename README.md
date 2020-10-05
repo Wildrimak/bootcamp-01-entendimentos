@@ -38,6 +38,12 @@
 ### Indo um pouco mais fundo no aprendizado eficiente
 
 * Você já sabe aprender
+  * Já nascemos sabendo como aprender, desde crianças, já observamos o mundo a nossa volta, capturamos informações novas, tentamos gerar modelos mentais que expliquem o que ta acontecendo e fazemos testes para saber se nosso modelo foi eficiente. 
+    * Se somos assim desde a nossa infancia então porque aprender a aprender?
+  * O problema está justamente na geração dos nossos modelos para explicar as coisas, nem sempre ele será eficiente, até porque provalmente o que estamos tentando entender, provalmente já foi tentado por outras pessoas e o modelo gerado por elas é o resultado de um trabalho de vários anos testando e revisando esses modelos para chegar a um modelo generico condizente com a realidade e muito bem definido, logo não é por meio de uma reflexão de algumas horas que vamos construir um modelo melhor do que o dessas pessoas.
+  * Logo aqui entra a importancia de um guia, pois ele guiará o nosso aprendizado evitando que a gente trabalhe com informações irrelevantes, reduzindo o números de tentativas e erros que fazemos e a quantidade de buscas desnecessarias na nossa cabeça, dessa forma dizemos que estamos sendo eficiente no nosso aprendizado, pois geramos um modelo mental de qualidade do assunto estudado em um tempo muito menor do que seria tentando adivinhar tudo.
+  * Modelos mentais só são uteis quando são facilmente recuperaveis, afinal estudamos para lembrar daquilo que aprendemos, e eles se tornam recuperaveis com a pratica da informação aprendida nos mais variados ambientes de testes, ou seja além de reforçamos ao nosso cerebro que aquele modelo é importante por meio da pratica, estamos com a pratica tornando ele cada vez mais rapido de ser recuperado, assim quando precisarmos daquele modelo mental para resolver problemas o recuperaremos com facilidade.
+  * A eficiencia será maior se tanto quem ensina, quanto quem aprende, conhece do processo de aprendizado e a importancia de um guia para gerar modelos mentais de qualidade que possam ser recuperados com facilidade.
 * Sua memória é mais do que um repositório de informações
 * Como estudar com estratégias eficazes
 * Teoria da carga cognitiva e nossos limites de entendimento
